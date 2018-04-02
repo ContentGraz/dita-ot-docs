@@ -12,7 +12,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>JRE</indexterm>
+        <indexterm>Java Runtime Environment</indexterm>
+        <indexterm>JDK</indexterm>
+        <indexterm>Java Development Kit</indexterm>
       </keywords>
     </metadata>
   </prolog>
