@@ -8,7 +8,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>building output using Ant</indexterm>
+        <indexterm>build-script Ant</indexterm>
+        <indexterm>Building output with Ant on Linux</indexterm>
+        <indexterm>Building output with Ant on macOS</indexterm>
+        <indexterm>Building output with Ant on Windows</indexterm>
       </keywords>
     </metadata>
   </prolog>
