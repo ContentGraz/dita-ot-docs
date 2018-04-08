@@ -10,10 +10,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm>configuration properties</indexterm>
-        <indexterm>configuration settings</indexterm>
         <indexterm>local properties</indexterm>
-        <indexterm>plugin properties</indexterm>
+        <indexterm>pdf formatter</indexterm>
+        <indexterm>antenna house formatter</indexterm>
       </keywords>
     </metadata>
   </prolog>
