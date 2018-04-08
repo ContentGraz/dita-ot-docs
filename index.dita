@@ -10,9 +10,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm>plugin properties</indexterm>
-        <indexterm>store configuration properties</indexterm>
+        <indexterm>otrelease</indexterm>
+        <indexterm>otversion</indexterm>
+        <indexterm>dost-configuration</indexterm>
+        <indexterm>store configuration</indexterm>
       </keywords>
+      <keywords/>
     </metadata>
   </prolog>
   <body>
