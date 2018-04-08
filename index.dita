@@ -10,9 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm>reload style sheet</indexterm>
-        <indexterm>pre-processing</indexterm>
-        <indexterm>reload stylesheet</indexterm>
+        <indexterm>configuration properties</indexterm>
+        <indexterm>configuration settings</indexterm>
+        <indexterm>local properties</indexterm>
+        <indexterm>plugin properties</indexterm>
       </keywords>
     </metadata>
   </prolog>
