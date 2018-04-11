@@ -10,7 +10,24 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>transformation terms</indexterm>
+        <indexterm>value syntax</indexterm>
+        <indexterm>pdf parameters</indexterm>
+        <indexterm>html parameters</indexterm>
+        <indexterm>html5 parameters</indexterm>
+        <indexterm>xhtml parameters</indexterm>
+        <indexterm>configuration settings</indexterm>
+        <indexterm>configuration properties</indexterm>
+        <indexterm>local properties</indexterm>
+        <indexterm>reload</indexterm>
+        <indexterm>style sheet</indexterm>
+        <indexterm>override default values</indexterm>
+        <indexterm>root directory</indexterm>
+        <indexterm>plug-in installation</indexterm>
+        <indexterm>store configuration</indexterm>
+        <indexterm>dost-configuration</indexterm>
+        <indexterm>otrelease</indexterm>
+        <indexterm>otversion</indexterm>
       </keywords>
     </metadata>
   </prolog>
