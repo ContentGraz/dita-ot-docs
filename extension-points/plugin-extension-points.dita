@@ -10,7 +10,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>plugin</indexterm>
+        <indexterm>extension point</indexterm>
+        <indexterm>core code changes</indexterm>
       </keywords>
     </metadata>
   </prolog>
